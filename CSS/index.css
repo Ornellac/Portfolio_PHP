@@ -13,6 +13,13 @@
     margin: auto 0;
     width: 100%;
 }
+/*? Les coming soon < */
+img.com{
+    margin: auto 0;
+    width: 80%;
+    display: flex;
+    justify-content: center;
+}
 
 /*todo_____________________________________________________________________ Mise en page du menu de navigation  */
 
