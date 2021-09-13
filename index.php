@@ -54,7 +54,10 @@
     <div class="page2">
         <a href="#"><img class="donut" src="img/donut2.gif" onmouseover="this.src='img/donut_hover.gif'" onmouseout="this.src='img/donut2.gif'"></a> <span style="font-size:14px;">←</span> <span style="font-size:16px;">Appuis sur le donut pour revenir au menu de navigation.</span> <br>
         <h1 class="titre"><span style="color: rgb(194, 127, 147);">M</span>es études</h1>
-        <img class="com" src="./img/coming_soon_Grey.gif">    
+        <span style="font-size:18px;">J'ai suivis mes maternelles à Wanfercee-Baulet et mes primaires à Velaine(2 écoles communale).</span><br>
+        CESJB - Saint Jean Baptiste TAMINES<br>
+        Enseignement générale : 1e - 2e - 3e De 2006 à 2009
+        <img class="com" src="./img/coming_soon_Grey.gif">
     </div>
 
     <img class="sep" id="p3" src='./img/separation_grise_to_.bmp'>

@@ -111,14 +111,14 @@ nav > ul li:hover .sous {
 
 /*todo_____________________________________________________________________ Mise en page du body */
 
-/**__________ Page 1 (Scroll 1< Categorie "QUI JE SUIS") */
-
 .titre {
     font-family: 'Bebas Neue', cursive;
     font-size: 28px;
     margin-left: 2%;
     text-align: center;
 }
+
+/**__________ Page 1 (Scroll 1< Categorie "QUI JE SUIS") */
 
 .page1{
     font-family: 'Alumni Sans', sans-serif;
