@@ -55,8 +55,19 @@
         <a href="#"><img class="donut" src="img/donut2.gif" onmouseover="this.src='img/donut_hover.gif'" onmouseout="this.src='img/donut2.gif'"></a> <span style="font-size:14px;">←</span> <span style="font-size:16px;">Appuis sur le donut pour revenir au menu de navigation.</span> <br>
         <h1 class="titre"><span style="color: rgb(194, 127, 147);">M</span>es études</h1>
         <span style="font-size:18px;">J'ai suivis mes maternelles à Wanfercee-Baulet et mes primaires à Velaine(2 écoles communale).</span><br>
-        CESJB - Saint Jean Baptiste TAMINES<br>
-        Enseignement générale : 1e - 2e - 3e De 2006 à 2009
+        <span style="color: rgb(194, 127, 147); font-weight: bold;">CESJB</span><span style="font-weight: bold;"> - Saint Jean Baptiste </span><span style="color:rgb(194, 127, 147); font-weight: bold;">TAMINES</span><br>
+        <span style="font-style: italic;"><span style="color: rgb(194, 127, 147);">E</span>nseignement <span style="color: rgb(194, 127, 147);">g</span>énérale </span>: <span style="font-weight: bold;">1</span>e - <span style="font-weight: bold;">2</span>e - <span style="font-weight: bold;">3</span>e De <span style="color: rgb(194, 127, 147);">2006</span> à <span style="color: rgb(194, 127, 147);">2009</span>
+        <br>
+        <span style="color: rgb(194, 127, 147); font-weight: bold;">CESJB</span><span style="font-weight: bold;"> - Implantation Sainte-Anne </span><span style="color:rgb(194, 127, 147); font-weight: bold;">WANFERCEE-BAULET</span><br>
+        <span style="font-style: italic;"><span style="color: rgb(194, 127, 147);">E</span>nseignement <span style="color: rgb(194, 127, 147);">p</span>rofessionnelle </span>: <span style="font-weight: bold;">3</span>e <span style="color: rgb(194, 127, 147);">Service sociaux</span>  <span style="color: rgb(194, 127, 147);">2010</span>
+        <br>
+        <span style="color: rgb(194, 127, 147); font-weight: bold;">IATA</span><span style="font-weight: bold;"> - Institut d’enseignement des arts techniques sciences et artisanats</span><span style="color:rgb(194, 127, 147); font-weight: bold;"> NAMUR</span><br>
+        <span style="font-style: italic;"><span style="color: rgb(194, 127, 147);">E</span>nseignement <span style="color: rgb(194, 127, 147);">p</span>rofessionnelle </span>: <span style="font-weight: bold;">4</span>e <span style="color: rgb(194, 127, 147);">Arts</span>  <span style="color: rgb(194, 127, 147);">2011</span>
+        <br>
+        <span style="font-style: italic;"><span style="color: rgb(194, 127, 147);">E</span>nseignement <span style="color: rgb(194, 127, 147);">p</span>rofessionnelle </span>: <span style="font-weight: bold;">4</span>e <span style="color: rgb(194, 127, 147);">Imprimerie</span>  <span style="color: rgb(194, 127, 147);">2012</span>
+        <br>
+        <span style="color: rgb(194, 127, 147); font-weight: bold;">CESJB</span><span style="font-weight: bold;"> - Saint Jean Baptiste </span><span style="color:rgb(194, 127, 147); font-weight: bold;">TAMINES</span><br>
+        <span style="font-style: italic;"><span style="color: rgb(194, 127, 147);">E</span>nseignement <span style="color: rgb(194, 127, 147);">p</span>rofessionnelle </span>: <span style="font-weight: bold;">5</span>e <span style="color: rgb(194, 127, 147);">Vente</span>  <span style="color: rgb(194, 127, 147);">2013</span>
         <img class="com" src="./img/coming_soon_Grey.gif">
     </div>
 
